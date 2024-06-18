@@ -151,8 +151,8 @@ a, button {
 	cursor: pointer;
 }
 .svg-image img{
-	height:460px;
-	width: 650px;
+	height:500px;
+	width: 500px;
 	filter: drop-shadow(0 20px 10px rgba(0,0,0,0.2));
 }
 
